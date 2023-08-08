@@ -1,4 +1,12 @@
-# Relatório de Progresso Diário - Automação de Produtividade
+# <font color = blue align = 'center'> **Relatório de Progresso Diário**
+## <font color = blue align = 'center'> **Automação de Produtividade**
+
+### <font color = darkblue > Apresentação
+
+* ***As ferramentas utilizadas neste projeto são:***  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 
 * Descrição do Projeto Este repositório contém um projeto de automação desenvolvido para coletar, analisar e gerar um relatório de progresso diário da produtividade dos funcionários durante uma semana. O objetivo é acompanhar o desempenho da equipe ao longo do tempo, identificar padrões de produtividade e fornecer insights valiosos para tomada de decisões.
 
